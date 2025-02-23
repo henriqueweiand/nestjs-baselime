@@ -1,9 +1,17 @@
 {
   "name": "nestjs-baselime",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "NestJS integration with Baselime",
   "author": "henriqueweiand",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriqueweiand/nestjs-baselime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/henriqueweiand/nestjs-baselime/issues"
+  },
+  "homepage": "https://github.com/henriqueweiand/nestjs-baselime",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
